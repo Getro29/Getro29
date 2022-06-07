@@ -1,8 +1,5 @@
 ### Olá, sou Getro Calebe
 
-- 🌱 Estudando no momento HTML, CSS e Javascript
-- ⛏️ Tentando criar uma plataforma de discussão literária 
-
 <div align="center">
   <a href="https://github.com/Getro29">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=getro29&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
