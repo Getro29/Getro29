@@ -7,7 +7,7 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Getro-Python" height="30" width="40" <img src="<script src="https://cdn.jsdelivr.net/npm/@hyper.fun/carbon-icon-logo-python@1.3.0/esm/index.min.js"></script>"/>
+  <img align="center" alt="Getro-Python" height="30" width="40" <img src="<script src="https://cdn.jsdelivr.net/npm/@hyper.fun/carbon-icon-logo-python@1.3.0/esm/index.min.js"></script>/>
 </div>
   
   ##
