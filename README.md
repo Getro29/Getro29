@@ -1,4 +1,4 @@
-### Olá, sou Getro Calebe
+### Getro Calebe aqui!!
 
 <div align="center">
   <a href="https://github.com/Getro29">
@@ -7,9 +7,7 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Getro-Js" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-  <img align="center" alt="Getro-HTML" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-  <img align="center" alt="Getro-CSS" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+  <img align="center" alt="Getro-Python" height="30" width="40" <img src="<script src="https://cdn.jsdelivr.net/npm/@hyper.fun/carbon-icon-logo-python@1.3.0/esm/index.min.js"></script>" />
 </div>
   
   ##
