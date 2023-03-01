@@ -6,9 +6,6 @@
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=getro29&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Getro-Python" height="30" width="40" <img src="<script src="[https://cdn.jsdelivr.net/npm/@hyper.fun/carbon-icon-logo-python@1.3.0/esm/index.min.js](https://img.icons8.com/color/256/python--v1.png)"></script>/>
-</div>
   
   ##
   
